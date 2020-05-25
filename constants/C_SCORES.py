@@ -1,0 +1,3 @@
+KILL = 100
+REWARD = 200
+TIME = 500
